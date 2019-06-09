@@ -16,6 +16,7 @@ let bouqet = UIImage(named: "4")
 let stands = UIImage(named: "5")
 let urben = UIImage(named: "6")
 
+let imageArray = [camera, city, animal, bouqet, stands, urben]
 
 //names
 let names = ["CAMERA", "CITY", "ANIMAL", "BOUQET", "STAND", "URBEN"]
